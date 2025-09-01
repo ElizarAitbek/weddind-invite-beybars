@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Биздий той",
-  description: "Нурлис & Кайыргүл 2025",
+  description: "Бейбарс & Нуриза 2025",
 };
 
 export default function RootLayout({
