@@ -168,7 +168,7 @@ export default function WeddingInvite() {
           backgroundImage: "url(/wedding-bg.webp)",
           backgroundPosition: "center",
           backgroundSize: "cover",
-          backgroundAttachment: window.innerWidth < 768 ? "scroll" : "fixed",
+          backgroundAttachment: "scroll",
           backgroundPositionY: `calc(50% + ${scrollY * 0.2}px)`,
         }}
       >
