@@ -1,6 +1,6 @@
 # 🌐 Wedding invite
 
-🔗 **Live site**: [nurlis-kaiyrgul.site](https://www.nurlis-kaiyrgul.site/)
+🔗 **Live site**: [nurlis-kaiyrgul.site]
 
 ---
 
