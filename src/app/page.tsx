@@ -397,7 +397,7 @@ export default function WeddingInvite() {
                       {t.details.banketHall.name}
                     </p>
                     <a
-                      href="https://go.2gis.com/k2H8n"
+                      href="https://go.2gis.com/9oRmx"
                       className="inline-block bg-rose-600 text-white px-4 py-2 rounded-full text-sm font-medium hover:bg-rose-700 transition-colors duration-300"
                       target="_blank"
                       rel="noopener noreferrer"
